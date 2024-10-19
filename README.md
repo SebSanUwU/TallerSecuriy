@@ -1,6 +1,6 @@
 # TallerSecuriy
 
-Este proyecto consiste en la creación de una arquitectura básica que abarca la seguridad de STP, certificados de DNS, encriptación de credenciales y seguridad en REST API.
+Este proyecto consiste en la creación de una arquitectura básica que abarca la seguridad de SSL/TLS, certificados de DNS, encriptación de credenciales y seguridad en REST API.
 
 ## Arquitectura
 
